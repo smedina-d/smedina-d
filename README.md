@@ -9,10 +9,10 @@
 
 <div style="text-align: justify;">
 <a href="#" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smedina-d&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true&locale=es"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smedina-d&show_icons=true&theme=midnight-blue&card_width=180&?count_private=true&locale=es"/>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smedina-d&show_icons=true&theme=midnight-purple&layout=compact&?count_private=true&locale=es" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smedina-d&show_icons=true&theme=midnight-blue&layout=compact&?count_private=true&locale=es" />
 </a>
 
 <a href="#">
