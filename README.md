@@ -3,9 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/smedina-d?label=smedina-d&logo=github&style=for-the-badge)](https://github.com/smedina-d?tab=followers)
 [![Twitter @samuelmdg](https://img.shields.io/twitter/follow/samuelmdg?label=samuelmdg&logo=twitter&style=for-the-badge)](https://twitter.com/samuelmdg)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://samuelmedinadg@gmail.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MiguelAngelMP10) -->
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MiguelAngelMP10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MiguelAngelMP10) -->
+
 
 <div style="text-align: justify;">
 <a href="#" >
