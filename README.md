@@ -44,9 +44,9 @@ flowchart LR
   and make sure no credentials, API keys or private URLs are visible.
 -->
 <div align="center">
-  <img src="assets/n8n-workflow.png" alt="n8n workflow: schedule, news, Claude, Telegram approval, LinkedIn" width="100%" />
+  <img width="777" height="397" alt="image" src="https://github.com/user-attachments/assets/c2abada1-3bef-438f-87f7-7ae4040b6ce8" />
   <br/><br/>
-  <img src="assets/telegram-approval.png" alt="Telegram message with the draft and an Approve button" width="320" />
+  <img width="339" height="760" alt="image" src="https://github.com/user-attachments/assets/6841c61e-26a2-4cf7-b16e-184f2fc6bb0a" />
 </div>
 
 ---
