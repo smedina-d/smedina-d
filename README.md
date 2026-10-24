@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# Hey, I'm Samuel Medina 👋
+# Hey, I'm Samuel Medina
 
 **I build software, automate businesses with AI, and ship practical tools that save people hours.**
 
-Tech Lead & Full-Stack Engineer · 15+ years · PHP/Laravel & Go · n8n & LLM automation · Cloud/DevOps
+Founder of [Janus Devs](https://janusdevs.dev/) - Tech Lead & Full-Stack Engineer · 15+ years · PHP/Laravel & Go · n8n & LLM automation · Cloud/DevOps
 
 <br/>
 
